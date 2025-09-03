@@ -1,0 +1,206 @@
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\bin\Debug\rbo.exe.config
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\bin\Debug\rbo.exe
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\bin\Debug\rbo.pdb
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.csproj.AssemblyReference.cache
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.csproj.SuggestedBindingRedirects.cache
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.Form1.resources
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.cache
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.csproj.CoreCompileInputs.cache
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.exe
+C:\Users\yma\Desktop\STM32_机械手\上位机\机器人上位机\rbo\rbo\obj\Debug\rbo.pdb
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\bin\Debug\rbo.exe.config
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\bin\Debug\rbo.exe
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\bin\Debug\rbo.pdb
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.csproj.AssemblyReference.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.csproj.SuggestedBindingRedirects.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.Form1.resources
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.csproj.CoreCompileInputs.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.exe
+C:\Users\yma\Desktop\STM32_Practise\2022-12-13_上位机控制机械臂\上位机\rbo\rbo\obj\Debug\rbo.pdb
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\bin\Debug\rbo.exe.config
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\bin\Debug\rbo.exe
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\bin\Debug\rbo.pdb
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.AssemblyReference.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.SuggestedBindingRedirects.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.Form1.resources
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.CoreCompileInputs.cache
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.exe
+C:\Users\yma\Desktop\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.AssemblyReference.cache
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.Form1.resources
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.cache
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.CoreCompileInputs.cache
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2024\STM32_MINI_Robot\STM32_Practise\2022-12-22_上位机控制六轴机械臂\上位机\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.AssemblyReference.cache
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.Form1.resources
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.cache
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.CoreCompileInputs.cache
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2024\WANG_Project_bilibili\py版本上位机\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\obj\Debug\rbo.Form1.resources
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.cache
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2024\Desktop_Robot\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\01_Project\2025\ESP-32-S-MiniRobot\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+E:\01_Project\2025\00 线上课程开发\机器人上位机\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\STM32_Practise\2022-12-22_上位机控制六轴机械臂\下位机\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+E:\01_Project\2025\02 湖工大课程开发\STM32-Robot-2025\综合实验：STM32从0到1控制桌面机器人\实验8：桌面机器人完整控制项目\上位机程序\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe.config
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.exe
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.pdb
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.pdb
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+C:\Users\Z\Desktop\QKM\phase4\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe.config
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.exe
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.pdb
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.pdb
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+E:\湖工大项目课程开发\实验总控上位机-源码\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe.config
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.exe
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.pdb
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.exe
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\rbo.pdb
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.dll
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.pdb
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.xml
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Dataview.resources
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.RbtHome.resources
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.MainForm.resources
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.Properties.Resources.resources
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.SimulationFun.resources
+C:\Users\1\Desktop\实验总控上位机-源码\6six_rbo\rbo\obj\Debug\rbo.csproj.GenerateResource.Cache
